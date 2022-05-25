@@ -13,7 +13,7 @@ is the last stage in the selection process for becoming a "cadet" (42's student)
 
 ## SKILLS DEVELOPPED AT C PISCINE
 
-Hard-Skills
+### Hard-Skills
 - C Language
 
   The primary language learned at the 42's Piscine is C: dealing with variables,
@@ -30,7 +30,7 @@ Hard-Skills
   All projects are submitted via a remote git repository, which demands students to
   be at ease with such a system.
   
-Soft-Skills
+### Soft-Skills
 - Self-learning and proactiveness
 
   At 42, self-learning is at the core of its peer to peer learning methodology. There

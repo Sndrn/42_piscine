@@ -16,9 +16,9 @@ SKILLS DEVELOPPED AT C PISCINE
 Hard-Skills
 - C Language
 
-The primary language learned at the 42's Piscine is C: dealing with variables,
-pointers, memory allocation, macros, as well as creating functions and programs,
-including the use and creation of libraries and Makefiles.
+  The primary language learned at the 42's Piscine is C: dealing with variables,
+  pointers, memory allocation, macros, as well as creating functions and programs,
+  including the use and creation of libraries and Makefiles.
 
 - Shell
 

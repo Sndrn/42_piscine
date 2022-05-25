@@ -48,4 +48,4 @@ is the last stage in the selection process for becoming a "cadet" (42's student)
 
   The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
   they want, which demands excellent time management skills and resiliency for not
-  "drowning" amid the massive load of work demanded by the non-stop 26-day program.
+  "drowning" in the massive load of work demanded by the non-stop 26-day program.

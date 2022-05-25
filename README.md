@@ -3,7 +3,7 @@
 This repository contains coding developed at 42Lausanne's C "bootcamp" (known as Piscine), during the month of July 2021.
 Having succeeded the Piscine (based on various criteria), I became a student at 42Lausanne.
 
-# ABOUT 42
+## ABOUT 42
 
 42 is a global education initiative that proposes a new way of learning technology: no teachers,
 no classrooms, students learning from their fellow students (peer to peer learning), with a
@@ -11,7 +11,7 @@ methodology that develops both computing and life skills.
 The 42 cursus is free for whoever is approved in its selection process : the so-called "C Piscine", a 26-day C programming bootcamp,
 is the last stage in the selection process for becoming a "cadet" (42's student).
 
-# SKILLS DEVELOPPED AT C PISCINE
+## SKILLS DEVELOPPED AT C PISCINE
 
 Hard-Skills
 - C Language

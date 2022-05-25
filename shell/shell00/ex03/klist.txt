@@ -1,0 +1,14 @@
+Credentials cache: API:0D7586D1-556B-49A3-88F7-13F3DA11BFA1
+        Principal: santonie@42LAUSANNE.CH
+    Cache version: 0
+
+Server: krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Client: santonie@42LAUSANNE.CH
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 351
+Auth time:  Jul  6 14:54:13 2021
+End time:   Jul  7 00:54:13 2021
+Renew till: Jul 13 14:54:13 2021
+Ticket flags: enc-pa-rep, pre-authent, initial, renewable, proxiable, forwardable
+Addresses: addressless
+
